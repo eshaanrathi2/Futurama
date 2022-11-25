@@ -1,4 +1,4 @@
-# AI project on solving multiple instances of 8 puzzle problem.
+# AI project on solving multiple instances of 8 puzzle problem
 
 • Implemented A* Search and hill climbing algorithms for solving 1000 instances of 8-puzzle problem.
 
