@@ -1,4 +1,3 @@
-```markdown
 # AI 8-Puzzle Solver
 
 ## Requirements:
