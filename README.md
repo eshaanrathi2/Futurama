@@ -31,10 +31,14 @@ Not all states of the n-puzzle problem are solvable. The puzzle instance is solv
 4. A* Search:
    - In A* search, an underestimated heuristic is used to evaluate the distance between the tile position and the goal position. The algorithm iterates over possible states until the goal state is found.
 
+
 ## Results
 ![assets/success_rates.png](assets/success_rates.png)
 ![assets/search_costs.png](assets/search_costs.png)
+
 Graphs showing average search cost and success rate for various algorithms after running on 1000 instances of the 8-puzzle problem.
+
+![assets/results.png](assets/results.png)
 
 ### Observations
 - Adjusting the rate of change in temperature in simulated annealing affects the success rate and search cost.
