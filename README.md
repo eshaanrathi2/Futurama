@@ -1,5 +1,5 @@
 # AI 8-Puzzle Solver
-
+![assets/sample-2.png](assets/sample-2.png)
 ## Requirements:
 1. Python version 3.6 or above
 2. Python packages: 
@@ -32,6 +32,8 @@ Not all states of the n-puzzle problem are solvable. The puzzle instance is solv
    - In A* search, an underestimated heuristic is used to evaluate the distance between the tile position and the goal position. The algorithm iterates over possible states until the goal state is found.
 
 ## Results
+![assets/success_rates.png](assets/success_rates.png)
+![assets/search_costs.png](assets/search_costs.png)
 Graphs showing average search cost and success rate for various algorithms after running on 1000 instances of the 8-puzzle problem.
 
 ### Observations
