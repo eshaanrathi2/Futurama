@@ -1,4 +1,4 @@
-# AI 8-Puzzle Solver
+# Pathfinding Algorithms in AI
 ![assets/sample-2.png](assets/sample-2.png)
 ## Requirements:
 1. Python version 3.6 or above
@@ -8,6 +8,7 @@
 3. C++ compiler for C++14 and C++17 (preferably GNU Compiler Collection)
 
 ## Introduction
+We demonstrate Pathfinding Algorithms in AI by solving N puzzle problem.
 N-Puzzle: It is a sliding puzzle that consists of N tiles where N can be 8, 15, 24, and so on. Here N is of the form X^2 - 1. It consists of a grid of X columns and X rows. One of the tiles in the grid is blank and can be used to move the tiles around to solve the puzzle.
 
 This is an 8 puzzle with a given start and goal state. The purpose of the puzzle is to find moves such that the goal state can be found by moving the blank tile.
